@@ -1,5 +1,4 @@
 local swagmins = {
-3412117816, --dawn
-3192194517, --dawn
+123, --dawn
 }
 return swagmins
